@@ -42,7 +42,8 @@ The simplest way to install all dependencies is by using [Anaconda](https://cond
 
 For more information about UnCLe SAM, please read the following paper:
 ```
-Ranem, A., Aflal, M. A. M., Fuchs, M., & Mukhopadhyay, A. (2024, February). UnCLe SAM: Unleashing SAM’s Potential for Continual Prostate MRI Segmentation. In Medical Imaging with Deep Learning.
+Ranem, A., Aflal, M. A. M., Fuchs, M., & Mukhopadhyay, A. (2024, February).
+UnCLe SAM: Unleashing SAM’s Potential for Continual Prostate MRI Segmentation. In Medical Imaging with Deep Learning.
 ```
 
 ## Citations
