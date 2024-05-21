@@ -30,7 +30,7 @@ The simplest way to install all dependencies is by using [Anaconda](https://cond
 
 
 ## How to get started?
-- The easiest way to start is using our `train_abstract_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_abstract_*.py` python files, located in the [scripts folder](https://github.com/MECLabTUDA/UnCLeSAM/tree/main/scripts/torch).
+- The easiest way to start is using our `train_abstract_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_abstract_*.py` python files, located in the [scripts folder](https://github.com/MECLabTUDA/UnCLeSAM/tree/main/scripts).
 - The [eval folder](https://github.com/MECLabTUDA/UnCLeSAM/tree/main/eval) contains several jupyter notebooks that were used to calculate performance metrics and plots used in our submission.
 
 
