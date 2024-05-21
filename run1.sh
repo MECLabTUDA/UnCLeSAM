@@ -1,0 +1,3 @@
+python scripts/train_abstract_adapter.py
+python scripts/train_abstract_adapter_ewc.py
+python scripts/train_abstract_adapter_rwalk.py
